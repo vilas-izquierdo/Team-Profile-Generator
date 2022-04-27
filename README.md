@@ -12,6 +12,11 @@ Creates HTML page for the team with individual cards for each member and their i
 
 <img src="./profilegenerator.png">
 
+
+## Installation
+
+Run NPM install to install inquirer and any required modules
+
 ## Links
 
 
